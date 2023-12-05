@@ -1,6 +1,6 @@
 # ¡Holaa! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy Alfredo Parada (https://github.com/Ezecapretta), un apasionado de la programación y la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas. Permíteme presentarte un poco sobre mí y mis intereses:
+¡Bienvenido/a a mi perfil de GitHub! Soy Ezequiel Capretta (https://github.com/Ezecapretta), un apasionado de la programación y la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas. Permíteme presentarte un poco sobre mí y mis intereses:
 
 ## Acerca de mí
 
